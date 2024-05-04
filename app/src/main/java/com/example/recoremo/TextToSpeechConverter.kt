@@ -1,4 +1,4 @@
-package com.orbitalsonic.texttospeechtts
+package com.example.recoremo
 
 import android.content.Context
 import android.speech.tts.TextToSpeech

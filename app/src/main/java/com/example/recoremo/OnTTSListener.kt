@@ -1,4 +1,4 @@
-package com.orbitalsonic.texttospeechtts
+package com.example.recoremo
 
 interface OnTTSListener {
     fun onReadyForSpeak()
